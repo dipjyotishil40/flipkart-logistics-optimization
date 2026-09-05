@@ -144,4 +144,4 @@ The analysis can help logistics teams:
 
 The complete project presentation containing the analysis, insights, and recommendations is available here:
 
-[View Project Presentation](./Presentation.pptx)
+[View Project Presentation](./PresentationSQL.pptx)
