@@ -33,7 +33,7 @@ help improve delivery performance and operational efficiency.
 
 ## 📂 Project Structure
 
-```text
+
 flipkart-logistics-optimization/
 │
 ├── sql/
@@ -46,8 +46,8 @@ flipkart-logistics-optimization/
 │   ├── 07_logistics_summary.sql
 │   └── 08_optimization_recommendations.sql
 │
+├── Presentation.pptx
 └── README.md
----
 
 ---
 
