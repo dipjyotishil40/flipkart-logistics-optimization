@@ -46,7 +46,7 @@ flipkart-logistics-optimization/
 │   ├── 07_logistics_summary.sql
 │   └── 08_optimization_recommendations.sql
 │
-├── Presentation.pptx
+├── Presentation SQL.pptx
 └── README.md
 ```
 ---
