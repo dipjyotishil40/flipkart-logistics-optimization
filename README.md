@@ -49,6 +49,84 @@ flipkart-logistics-optimization/
 └── README.md
 ---
 
+---
+
+## 🔍 Analysis Performed
+
+### 1. Data Preparation
+- Inspected logistics data
+- Checked table structures
+- Standardized relevant data types
+- Checked missing values
+- Validated delivery dates
+- Reviewed order statuses
+
+### 2. Exploratory Analysis
+- Examined order data
+- Analyzed order patterns
+- Investigated shipment characteristics
+
+### 3. Delivery Performance
+- Measured on-time deliveries
+- Identified delayed deliveries
+- Calculated delivery delays
+- Evaluated overall delivery performance
+
+### 4. Route Analysis
+- Compared route performance
+- Identified routes with higher delays
+- Examined route-level order volumes
+
+### 5. Warehouse Analysis
+- Compared warehouse performance
+- Identified warehouses associated with delays
+- Examined warehouse order volumes
+
+### 6. Agent Performance
+- Measured agent-level delivery performance
+- Calculated on-time delivery rates
+- Identified agents with higher delays
+- Analyzed agent order volumes
+
+### 7. Logistics Summary
+- Consolidated key logistics metrics
+- Reviewed overall delivery performance
+- Examined order status distribution
+
+### 8. Optimization Recommendations
+- Identified operational problem areas
+- Highlighted high-delay routes
+- Identified warehouse bottlenecks
+- Identified low-performing agents
+- Examined high-volume logistics operations
+
+---
+
+## ❓ Key Business Questions
+
+This project answers questions such as:
+
+- How many orders are delivered on time?
+- How many orders are delayed?
+- Which routes experience the highest delays?
+- Which warehouses have poorer delivery performance?
+- Which agents have lower on-time delivery rates?
+- Which routes and warehouses handle the highest order volumes?
+- Where should logistics operations be improved?
+
+---
+
+## 💡 Business Value
+
+The analysis can help logistics teams:
+
+- Reduce delivery delays
+- Improve route planning
+- Identify warehouse bottlenecks
+- Improve delivery agent performance
+- Prioritize high-risk logistics operations
+- Make data-driven operational decisions
+
 ## 📊 Key Findings
 
 - RT_13, RT_14, and RT_03 were identified as the least-efficient routes.
