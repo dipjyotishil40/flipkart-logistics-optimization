@@ -47,3 +47,23 @@ flipkart-logistics-optimization/
 │   └── 08_optimization_recommendations.sql
 │
 └── README.md
+---
+
+## 📊 Key Findings
+
+- RT_13, RT_14, and RT_03 were identified as the least-efficient routes.
+- Several routes showed high delivery delay percentages, indicating the need for targeted route optimization.
+- WH_02 recorded the highest average processing time among the warehouses.
+- Delayed shipments were concentrated in a few underperforming warehouses.
+- Delivery agent performance varied significantly across routes.
+- Traffic was identified as the most common cause of shipment delays.
+- Weather-related disruptions also had a significant impact on delivery timelines.
+- Some orders experienced multiple delayed checkpoints, indicating recurring bottlenecks.
+
+---
+
+## 📑 Project Presentation
+
+The complete project presentation containing the analysis, insights, and recommendations is available here:
+
+[View Project Presentation](./Presentation.pptx)
